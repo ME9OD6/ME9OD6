@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ME9OD6
-- 👀 I’m interested in front-end web development and data science
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in web development and cloud computing
+- 🌱 I’m currently learning web development as well as cloud engineering for solutions architect.
+- 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me using this email: melodymburu04@gmail.com
 'm looking forward to amazing projects and challenges!!
 
